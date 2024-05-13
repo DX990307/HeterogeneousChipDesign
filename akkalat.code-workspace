@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../akita"
+		},
+		{
+			"path": "../mgpusim"
+		}
+	],
+	"settings": {}
+}

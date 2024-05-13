@@ -1,0 +1,70 @@
+Profiling server running on: 34003
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+endPoint: 3072
+Im2Col input [4 3 128 128], kernel [3 3], stride [1 1], padding [1 1], dilation [1 1], output [27 65536]
+Kernel Im2Col, Start 0.0000000060, Virtual Time: 1.7856e-05, Real Time: 6m24.349268023s
+Kernel Transpose, Start 0.0000242030, Virtual Time: 1.3126999999999998e-05, Real Time: 1m54.937282189s
+Kernel Gemm, Start 0.0000373300, Virtual Time: 2.2167000000000006e-05, Real Time: 3m31.981982146s
+Kernel Transpose, Start 0.0000595030, Virtual Time: 1.7417e-05, Real Time: 4m41.150832908s
+Im2Col input [4 3 128 128], kernel [3 3], stride [1 1], padding [1 1], dilation [1 1], output [27 65536]
+Kernel Im2Col, Start 0.0000769200, Virtual Time: 1.5157000000000004e-05, Real Time: 6m28.129896555s
+Kernel Transpose, Start 0.0000977240, Virtual Time: 1.3191000000000003e-05, Real Time: 1m54.962359687s
+Kernel Gemm, Start 0.0001109150, Virtual Time: 2.1257999999999992e-05, Real Time: 3m32.383442977s
+Kernel Transpose, Start 0.0001321790, Virtual Time: 1.737699999999998e-05, Real Time: 4m37.963977443s
+Im2Col input [4 3 128 128], kernel [3 3], stride [1 1], padding [1 1], dilation [1 1], output [27 65536]
+Kernel Im2Col, Start 0.0001495560, Virtual Time: 1.520300000000001e-05, Real Time: 6m25.690900879s
+Kernel Transpose, Start 0.0001704760, Virtual Time: 1.2999000000000002e-05, Real Time: 1m55.211588371s
+Kernel Gemm, Start 0.0001834750, Virtual Time: 2.261099999999999e-05, Real Time: 3m37.587201687s
+Kernel Transpose, Start 0.0002060920, Virtual Time: 1.684399999999999e-05, Real Time: 4m42.037210929s
+Im2Col input [4 3 128 128], kernel [3 3], stride [1 1], padding [1 1], dilation [1 1], output [27 65536]
+Kernel Im2Col, Start 0.0002229360, Virtual Time: 1.5275000000000005e-05, Real Time: 6m28.228223582s
+Kernel Transpose, Start 0.0002438420, Virtual Time: 1.2938999999999979e-05, Real Time: 1m55.891890744s
+Kernel Gemm, Start 0.0002567810, Virtual Time: 2.1589000000000027e-05, Real Time: 3m33.726364745s
+Kernel Transpose, Start 0.0002783760, Virtual Time: 1.691300000000002e-05, Real Time: 4m42.940470633s
